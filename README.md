@@ -1,16 +1,11 @@
 
 
-###  Hello There, Jamilson aqui !!
+###  Hello my name is jamilson, I'm a web developer !
 
+##
 
-<!--
-**Jamilsonh/Jamilsonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 Desenvolvedor Web
-- 🌱 Estudando React
+- 🔭 Web Developer.
+- 🌱 Studying TypeScript, NextJs and NodeJs at the moment.
 
 ##
 

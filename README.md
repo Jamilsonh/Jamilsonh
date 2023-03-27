@@ -2,6 +2,8 @@
 
 ###  Hello my name is jamilson, I'm a web developer !
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilsonh)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 
 - 🔭 Web Developer.

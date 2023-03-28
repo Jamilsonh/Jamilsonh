@@ -1,15 +1,9 @@
+<h1>  Hello my name is jamilson, I'm a web developer ! </h1>
+
+<img align="right" width="400px" height="250px" src=https://user-images.githubusercontent.com/59488744/228268584-c5db8b09-9af8-446b-a80d-0404fcad1e15.gif>
+</img>
 
 
-###  Hello my name is jamilson, I'm a web developer !
-
-<div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=jamilsonh"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsonh&layout=compact"/>
-</div>
-
-
-
-##
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying TypeScript and NextJs at the moment.</li>
@@ -18,7 +12,7 @@
   </ul>
 </p>
 
-##
+<h2 align="left" border="none"> Technologies and frameworks </h2>
 
 <div style="display: inline_block" align="center" >
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -45,7 +39,14 @@
 [instagram]: https://www.instagram.com/jamilson__/
 [linkedin]: https://www.linkedin.com/in/jamilsonh/
 
+<div align="center">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=jamilsonh"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsonh&layout=compact"/>
+</div>
+
+
 
 
 ![snake gif](https://github.com/jamilsonh/jamilsonh/blob/output/github-contribution-grid-snake.svg)
+
 

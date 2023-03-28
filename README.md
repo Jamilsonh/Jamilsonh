@@ -1,6 +1,6 @@
 <h1>  Hello my name is jamilson, I'm a web developer ! </h1>
 
-<img align="right" width="400px" height="250px" src=https://user-images.githubusercontent.com/59488744/228268584-c5db8b09-9af8-446b-a80d-0404fcad1e15.gif>
+<img align="right" width="350px" height="250px" src=https://user-images.githubusercontent.com/59488744/228268584-c5db8b09-9af8-446b-a80d-0404fcad1e15.gif>
 </img>
 
 

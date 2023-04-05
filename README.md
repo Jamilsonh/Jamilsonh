@@ -28,20 +28,11 @@
 
 ##
 
-#### Connect with me:
-
-[<img align="center" alt="jamilson | Instagram" src="https://img.shields.io/badge/Instagram-jamilson__-blue?style=flat-square&logo=instagram" />][instagram]
-[<img align="center" alt="jamilson | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20jamilson%20-blue?style=flat-square&logo=linkedin" />][linkedin]
-
 <br />
-<br />
-
-[instagram]: https://www.instagram.com/jamilson__/
-[linkedin]: https://www.linkedin.com/in/jamilsonh/
 
 <div align="center">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=jamilsonh"/>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsonh&layout=compact"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=jamilsonh&theme=radical"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilsonh&layout=compact&theme=radical"/>
 </div>
 
 

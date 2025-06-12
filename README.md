@@ -11,5 +11,5 @@ Apaixonado por construir soluções eficientes e experiências interativas.
 - **Banco de Dados:** PostgreSQL, MySQL
 
 ### Jogos
-- **Game Engines:** Unity  
+- **Game Engines:** Unity, Löve
 - **Linguagens:** C#, Lua
